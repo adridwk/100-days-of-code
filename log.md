@@ -49,7 +49,7 @@
 
 **Thoughts:** I used the Promodoro method to get my design and content, timing each tasks really helped me to stay focused and not go on a rabbit trail.  I will continue to use this going forward.
 
-**Link to work:** [Flexbox challenge] (https://codepen.io/AdriDWK/pen/gOmyKWB)
-**Link to work:** [Tribute](https://adridwk.github.io/tribute_freeCodeCamp/)
+**Link to work:** [Flexbox challenge](https://codepen.io/AdriDWK/pen/gOmyKWB)
+**Link to work:** [Hair Care Survey](https://github.com/adridwk/Hair-Care-Survey)
 
 
