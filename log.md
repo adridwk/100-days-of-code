@@ -42,7 +42,7 @@
 **Link to work:**  -->
 
 
-### Day 5: June 202021 
+### Day 5: June 20, 2021 
 
 
 **Today's Progress**: Back on the horse, made good progress with my survey for FCC, I found a design and content, all that is left is to style it.  Did a flexbox challenge and build an awesome animated navigation bar as part of a course.
