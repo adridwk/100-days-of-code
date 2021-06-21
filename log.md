@@ -52,4 +52,15 @@
 **Link to work:** [Flexbox challenge](https://codepen.io/AdriDWK/pen/gOmyKWB)
 **Link to work:** [Hair Care Survey](https://github.com/adridwk/Hair-Care-Survey)
 
+### Day 6: June 21, 2021 
+
+
+**Today's Progress**: Worked on the FCC survey, I am almost ready to submit this survey. Worked on Flexbox Challenge 2 and completed the assignment.
+
+**Thoughts:** Continued again with the Promodoro technique today, but I did not take enough breaks.
+
+**Link to work:** [Flexbox challenge#2](https://codepen.io/AdriDWK/pen/OJpYNmB)
+**Link to work:** [Hair Care Survey](https://github.com/adridwk/Hair-Care-Survey)
+
+
 
