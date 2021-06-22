@@ -62,5 +62,12 @@
 **Link to work:** [Flexbox challenge#2](https://codepen.io/AdriDWK/pen/OJpYNmB)
 **Link to work:** [Hair Care Survey](https://github.com/adridwk/Hair-Care-Survey)
 
+### Day 7: June 22, 2021 
 
+
+**Today's Progress**: Completed FCC project and submitted it. Practised Flexbox.  And did 3 code alongs.
+
+**Thoughts:** Time flies and it does not feel like I am making enough progress. Reading through notes and going through FreeCodeCamp's JavaScript, just to refresh. Tomorrow I start with JavaScript and then move to the 3rd FCC project, planning.
+
+**Link to work:** [Hair Care Survey](https://github.com/adridwk/Hair-Care-Survey)
 
