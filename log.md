@@ -71,3 +71,14 @@
 
 **Link to work:** [Hair Care Survey](https://github.com/adridwk/Hair-Care-Survey)
 
+
+### Day 7: June 22, 2021 
+
+**Today's Progress**: Started the day with JavaScript, practised algorithms for 1.5hr. Completed three code along project builds. Planned and started my next assignment for FCC.
+
+**Thoughts:** My learning feels slow, particularly CSS.  It is hard to tell how I am progressing with no frame of reference. 
+
+**Link to work:** [Product Landing Page](https://github.com/adridwk/product_landing_page.git)
+
+
+
