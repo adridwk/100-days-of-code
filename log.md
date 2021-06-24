@@ -72,7 +72,7 @@
 **Link to work:** [Hair Care Survey](https://github.com/adridwk/Hair-Care-Survey)
 
 
-### Day 7: June 22, 2021 
+### Day 8: June 23, 2021 
 
 **Today's Progress**: Started the day with JavaScript, practised algorithms for 1.5hr. Completed three code along project builds. Planned and started my next assignment for FCC.
 
@@ -80,5 +80,11 @@
 
 **Link to work:** [Product Landing Page](https://github.com/adridwk/product_landing_page.git)
 
+### Day 9: June 24, 2021 
 
+**Today's Progress**: I started with JavaScript, learned about recursive functions and made my own. Build 2 projects as code along, learned calc and how to implement it in CSS. Learned about HTML5 canvas.  Started and completed the flexbox challenge.  And worked on the product landing page.
 
+**Thoughts:** This morning I started by making notes of all the things I have learned. It kept my spirits up.
+
+**Link to work:** [Product Landing Page](https://github.com/adridwk/product_landing_page.git)
+**Link to work:** [Flexbox Challenge](https://github.com/adridwk/flexbox-challenge-4.git)
