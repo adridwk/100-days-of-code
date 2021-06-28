@@ -88,3 +88,20 @@
 
 **Link to work:** [Product Landing Page](https://github.com/adridwk/product_landing_page.git)
 **Link to work:** [Flexbox Challenge](https://github.com/adridwk/flexbox-challenge-4.git)
+
+### Day 10: June 25, 2021 
+
+**Today's Progress**: Started the day with JavaScript, practised algorithms for 1.5hr. Completed three code along project builds. Planned and started my next assignment for FCC.
+
+**Thoughts:** My learning feels slow, particularly CSS.  It is hard to tell how I am progressing with no frame of reference. 
+
+**Link to work:** [Product Landing Page](https://github.com/adridwk/product_landing_page.git)
+
+### Day 12: June 28, 2021 
+
+**Today's Progress**: I started with JavaScript. Spend the day creating the card section of my landing page. Practiced the spread and rest operators and descructuring. 
+
+**Thoughts:** Build build buil.
+
+**Link to work:** [Product Landing Page](https://github.com/adridwk/product_landing_page.git)
+
